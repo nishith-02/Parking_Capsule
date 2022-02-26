@@ -1,0 +1,67 @@
+.root{
+    height:30vh;
+    width:80vw;
+    background-color: #D3D3D3;
+    box-shadow:  0 3px 10px black;
+    margin: auto;
+}
+.img{
+    height: 70%;
+    width:60%;
+    border-radius: 90%;
+}
+.main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.imageDiv{
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:20%
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:80%;
+}
+.inputs{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.smallInput{
+    width:4rem
+}
+.but{
+    margin-top: 1rem;
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.input{
+    border:none;
+    border-radius: 3px;
+    padding-left:0.5rem
+}
+.input:focus{
+    outline: none;
+}
+.smallInput{
+    border: none;
+    border-radius: 3px;
+    padding-left: 0.5rem;
+}
+.smallInput:focus{
+    outline: none;
+}
+.button{
+    border: none;
+    background-color: black;
+    color:white;
+    border-radius: 1rem;
+    padding:0.2rem 1rem;
+}
