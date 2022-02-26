@@ -10,7 +10,7 @@
 - Find the directions from your current place to your booked slot after payment
 - Extend your booking time and finish your payment with just few clicks
 
-## Tech
+## Tech Stack
 
 - Nextjs
 - Express
