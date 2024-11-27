@@ -20,11 +20,6 @@
 - Geocode API
 - Twilio
 
-## Future Updates
-
-- Implementing rating and feedback system for a parking slot.
-- Users can rent a parked vehicle.
-- Advance booking system.
 
 ## Installation
 
@@ -39,8 +34,3 @@ npm install
 npm run server
 ```
 
-## People who contributed 🤝
-
-- https://github.com/rithika0508
-- https://github.com/nishith-02
-- https://github.com/Nithin1234321
